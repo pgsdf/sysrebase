@@ -2,7 +2,7 @@
 
 A production-ready system rebase utility for PGSD and GhostBSD systems using ZFS boot environments. This tool safely creates new boot environments with updated base system packages for major system transitions.
 
-**Status:** Production Ready - All critical security issues resolved (v0.1.0-fixed)
+**Status:** Experimental.
 
 **Note:** This tool is specifically designed for PGSD/GhostBSD systems with ZFS.
 
